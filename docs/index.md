@@ -7,8 +7,8 @@ hero:
   name: freemediaheckyeah
   tagline: The largest collection of free stuff on the internet!
   announcement:
-    title: October Updates 🎃
-    link: /posts/oct-2024
+    title: February Updates 💗
+    link: /posts/feb-2025
   image:
     src: /test.png
     alt: FMHY Icon
@@ -24,7 +24,7 @@ hero:
       link: /other/contributing
     - theme: alt
       text: Discord
-      link: https://discord.gg/Stz6y6NgNg
+      link: https://rentry.co/fmhy-invite
 
 features:
   - title: Adblocking / Privacy
@@ -126,11 +126,11 @@ features:
     link: /android-iosguide
     details: All forms of content for Android and iOS.
 
-  - title: Linux / MacOS
+  - title: Linux / macOS
     icon: |
       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#f17c67" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-square-terminal"><path d="m7 11 2-2-2-2"/><path d="M11 13h4"/><rect width="18" height="18" x="3" y="3" rx="2" ry="2"/></svg>
     link: /linuxguide
-    details: The $HOME of Linux and MacOS.
+    details: The $HOME of Linux and macOS.
 
   - title: Non English
     icon: |
